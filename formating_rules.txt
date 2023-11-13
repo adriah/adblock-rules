@@ -1,0 +1,2 @@
+! Limit comments to 70 characters wide, making them easier to read
+news.ycombinator.com##.comment:style(max-width: 70ch !important; overflow: hidden !important;)
