@@ -7,3 +7,14 @@
 
 ! Set comments  70 characters wide
 news.ycombinator.com##.comment:style(max-width: 70ch !important; overflow: hidden !important;)
+
+! Aug 27, 2024 https://www.kode24.no
+www.kode24.no###top-bar-ad
+www.kode24.no##.end.columns.large-left.medium-centered.large-8.medium-10.small-12.lab-bodytext-content.body-copy > div > .single-row.card.desktop-row.row
+www.kode24.no##.single-row.commercial.desktop-row.row
+www.kode24.no##.end.columns.large-left.medium-centered.large-8.medium-10.small-12.lab-bodytext-content.body-copy > div > .commercial.desktop-row.row
+www.kode24.no###articles-above-first-banner > .single-row.card.desktop-row.row
+www.kode24.no###top-notification
+www.kode24.no###articles-above-first-banner > div.first-row.desktop-row.row > .dual > .commercial-content.compact.medium-12.small-12.large-12.columns.preview
+www.kode24.no###articles-below-second-banner > div > .first-row.desktop-row.row > .dual > .commercial-content.compact.medium-12.small-12.large-12.columns.preview
+www.kode24.no###articles-below-first-banner > .first-row.desktop-row.row > .dual > .commercial-content.compact.medium-12.small-12.large-12.columns.preview
