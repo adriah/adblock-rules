@@ -1,9 +1,9 @@
 ! SPDX-License-Identifier: GPL-3.0-or-later
 ! Title: adblock_rules_distractions
 ! Version: 2023.11.14
-! Homepage: https://git.sr.ht/~cr4sh0v3rrid3/adblock_rules
-! License: https://git.sr.ht/~cr4sh0v3rrid3/adblock_rules/blob/main/LICENSE.txt
-! Support: https://todo.sr.ht/~cr4sh0v3rrid3/adblock_rules
+! Homepage: https://github.com/adriah/adblock-rules
+! License: https://github.com/adriah/adblock-rules/blob/main/LICENSE.txt
+! Support: https://github.com/adriah/adblock-rules
 
 ||lynchnw.com^
 ||countycomm.com^
