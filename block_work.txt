@@ -1,0 +1,9 @@
+! SPDX-License-Identifier: GPL-3.0-or-later
+! Title: adblock-rules_block_work
+! Version: 2023.11.14
+! Homepage: https://github.com/adriah/adblock-rules
+! License: https://github.com/adriah/adblock-rules/blob/main/LICENSE.txt
+! Support: https://github.com/adriah/adblock-rules
+
+||nrk.no^
+||nytimes.com^
